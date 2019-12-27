@@ -1,0 +1,65 @@
+/* */* {
+    /* propiedades_css */
+    border: rgb(45, 217, 223) solid 5px;
+    margin: 0;
+    padding: 0;
+} */
+
+
+p {
+    /* propiedades_css */
+    font-size: 20px;
+    color: rgb(71, 133, 214);
+}
+
+
+h1 {
+    color: rgb(255, 27, 27);
+    font-size: 60px;
+    font-family: 'Ma Shan Zheng', cursive;
+    border: grey dotted;
+}
+
+h2 {
+    color: rgb(60, 9, 245);
+    font-size: 30px;
+    font-family:'Sacramento', cursive;
+    border:rgb(13, 13, 14) solid 2px;
+}
+
+
+h3 {
+    color: rgb(75, 207, 224);
+    font-size: 25px;
+    font-family: 'Sacramento', cursive;
+    border:rgb(10, 10, 10) solid 2px;
+}
+
+
+P {
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    border:rgb(75, 74, 74) dotted 1px;
+}
+
+p span { 
+    color: red;
+}
+
+.destacado {
+    color: red;
+    font-size: 25;
+
+}
+
+
+img {
+    border: teal solid 2px;
+
+}
+
+
+#resaltado {
+    font-size: 25px;
+    color: grey;
+}
